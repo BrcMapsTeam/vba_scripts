@@ -6,7 +6,7 @@ Sub InsertCommentImageTwo()
 'Source:
 'www.contextures.com/xlcomments03.html
 'http://www.contextures.com/xlcomments03.html#Picture
-'Before running this make sure formhub is not down otherwise willl crash
+'Before running this make sure formhub is not down otherwise will crash
 
 ' Message box, do you want the macro to run?
 If MsgBox("Have you checked formhub is not down? If it is Excel will crash when completing this macro. Pressing no will stop the macro running", vbYesNo) = vbNo Then Exit Sub
