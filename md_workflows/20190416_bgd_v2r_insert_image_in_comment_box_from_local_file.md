@@ -1,3 +1,4 @@
+# Inserting a local image into a Excel comment box
 **Setting up**
 
 Ensure that your images are saved in a single folder.
